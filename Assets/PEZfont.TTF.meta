@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 16c8bb6149e9e4df79e533aba0f2eb58
+timeCreated: 1481870440
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PEZ font
+  fontNames:
+  - PEZ font
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
